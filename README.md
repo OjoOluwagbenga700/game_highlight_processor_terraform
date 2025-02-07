@@ -1,4 +1,4 @@
-# ncaa_game_highlight_terraform
+# game_highlight_processor_terraform
 This project builds on our previous NCAA game highlight processing pipeline (link below), which used a deployment script. We're now implementing a full end-to-end deployment using Terraform. This Infrastructure-as-Code  approach allows us to manage AWS resources consistently and scalably, automating video ingestion, processing, and delivery.
 
 https://dev.to/gbenga700/streamlining-ncaa-game-highlights-with-rapidapi-docker-and-aws-mediaconvert-22li
@@ -66,4 +66,7 @@ terraform apply –auto-approve
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c86qwwlwpsj2jbk7el3k.png)
 
 **Step 3: Verify Application deployment by confirming resources deployed on AWS**
-check the images folder in this repository for details.# game_highlight_processor_terraform
+
+check the documentation link for the images 
+
+
