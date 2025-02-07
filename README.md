@@ -69,4 +69,6 @@ terraform apply –auto-approve
 
 check the documentation link for the images 
 
+[
+](https://dev.to/gbenga700/game-highlights-processor-ecr-ecs-aws-elemental-mediaconvert-docker-terraform-25cc)
 
