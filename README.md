@@ -67,5 +67,4 @@ terraform apply –auto-approve
 
 **Step 3: Verify Application deployment by confirming resources deployed on AWS**
 
-check the documentation link for the images : [
-](https://dev.to/gbenga700/game-highlights-processor-ecr-ecs-aws-elemental-mediaconvert-docker-terraform-25cc)
+check the documentation link for the images : [](https://dev.to/gbenga700/game-highlights-processor-ecr-ecs-aws-elemental-mediaconvert-docker-terraform-25cc)
